@@ -62,11 +62,11 @@ ul, ol, dl
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+flex property gives an element the ability to be displayed in its flex container and positioned easier.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Margin
 ```
